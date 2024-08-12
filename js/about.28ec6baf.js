@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvila_galerija"]=self["webpackChunkvila_galerija"]||[]).push([[594],{603:function(a,n,u){u.r(n),u.d(n,{default:function(){return f}});var e=u(6768);const r={class:"about"},t=(0,e.Lk)("h1",null,"This is an about page",-1),i=[t];function s(a,n){return(0,e.uX)(),(0,e.CE)("div",r,i)}var l=u(1241);const c={},o=(0,l.A)(c,[["render",s]]);var f=o}}]);
+//# sourceMappingURL=about.28ec6baf.js.map
